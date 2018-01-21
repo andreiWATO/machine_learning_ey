@@ -4,4 +4,4 @@ Please, be adviced that all of the data is public and available to anyone, so, n
 
 thank you for the visiting!
 
-Score for the classification parameters using the scoring model was: 0.949020699898
+Score for the classification parameters using the scoring model was: <b>0.949020699898</b>
